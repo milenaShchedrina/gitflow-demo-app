@@ -9,3 +9,6 @@ Milena Shchedrina
 ## Documentation
 - [Installation guide](INSTALL.md)
 - [Changelog](CHANGELOG.md)
+
+## Branching model
+The project follows GitFlow branching strategy.
