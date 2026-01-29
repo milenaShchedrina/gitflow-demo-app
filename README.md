@@ -1,5 +1,7 @@
 # GitFlow Demo App
 
+![Project Logo](logo.png)
+
 ## What does this application do
 This project demonstrates GitFlow branching strategy and semantic versioning.
 
