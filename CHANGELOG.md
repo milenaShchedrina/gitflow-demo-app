@@ -1,4 +1,5 @@
 # Changelog
+All notable changes to this project are documented in this file.
 
 ## [1.1.1] - 2026-01-29
 ### Fixed

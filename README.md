@@ -2,8 +2,9 @@
 
 ![Project Logo](logo.png)
 
-## What does this application do
-This project demonstrates GitFlow branching strategy and semantic versioning.
+## ## What the application does
+This project demonstrates GitFlow branching strategy, semantic versioning,
+and basic project documentation practices using GitHub
 
 ## Developer
 Milena Shchedrina
