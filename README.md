@@ -14,3 +14,6 @@ Milena Shchedrina
 
 ## Branching model
 The project follows GitFlow branching strategy.
+
+## Network Graph
+![Network Graph](network.png)
