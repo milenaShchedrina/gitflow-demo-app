@@ -2,7 +2,7 @@
 
 ![Project Logo](logo.png)
 
-## ## What the application does
+# What the application does
 This project demonstrates GitFlow branching strategy, semantic versioning,
 and basic project documentation practices using GitHub
 
@@ -15,6 +15,10 @@ Milena Shchedrina
 
 ## Branching model
 The project follows GitFlow branching strategy.
+
+
+## Picture
+it is a picture
 
 ## Network Graph
 ![Network Graph](network.png)
